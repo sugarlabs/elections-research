@@ -7,7 +7,6 @@ Research of different elections software
 
 * [https://electionbuddy.com/](https://electionbuddy.com/)  
 * [https://elekto.dev/](https://elekto.dev/)  
-  * Preference method voting  
   * [https://github.com/elekto-io/elekto](https://github.com/elekto-io/elekto)  
 * [https://github.com/cncf/gitvote](https://github.com/cncf/gitvote)  
 * [https://star.vote/](https://star.vote/)  
